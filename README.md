@@ -1,8 +1,5 @@
 # starbucks_capstone_project
 
-# airbnb_seattle
-
-
 ### Table of Contents
 
 1. [Installation](#installation)
@@ -27,7 +24,7 @@ This project is created to answer following questions
 5. Prediction of if the customer will complete or offer or not.
 
 
-## File Descriptions <a name="files"></a>
+## File Description <a name="files"></a>
 
 There is a notebook provided
 1. Starbucks_Capstone_notebook.ipynb -  This provides data analysis from understanding the data, preprocessing and visualisations of the same and after that drawing consusions from the results obtitained. Also implements model for predicting whether the customer will complete the offer or not.
